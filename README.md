@@ -1,5 +1,5 @@
 <img src="https://github.com/mufaroxyz/mufaroxyz/assets/81554673/0480e946-2aec-406b-81d5-c32100d5c9f8" align="right" width="300" />
-<img src="https://github.com/mufaroxyz/mufaroxyz/assets/81554673/e31a8db7-3374-4a2e-b7b7-acd366d6af33" width="650" />
+<img src="https://github.com/mufaroxyz/mufaroxyz/assets/81554673/e31a8db7-3374-4a2e-b7b7-acd366d6af33" width="500" />
 <br />
 <br />
 
