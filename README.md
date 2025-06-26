@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm a young software developer that codes in Typescript, based in Poland. 
+I'm a 17 years old student from Poland that enjoys coding as a hobby as well as professionally. Currently TS/Rust 
 
 <details>
   <summary> Statistics</summary>
